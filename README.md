@@ -1,0 +1,2 @@
+# Codsoft_TaskNo2
+TASK 2: SIMPLE CALCULATOR in C++
